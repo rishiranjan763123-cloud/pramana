@@ -4,6 +4,14 @@ Pramāṇa makes every prescription verifiable. Doctors sign prescriptions crypt
 
 The repo is a monorepo with one React frontend (four portals behind one router) and a FastAPI backend.
 
+## Team Krito
+
+| No. | Member |
+| --- | --- |
+| 1 | Rishi Kumar |
+| 2 | Narayan Panigrahi |
+| 3 | Shaswat Singh |
+
 ## Portals
 
 | Portal | Path | Who uses it | What it does |
